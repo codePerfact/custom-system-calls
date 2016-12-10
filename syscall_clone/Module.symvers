@@ -1,0 +1,6 @@
+0x5249c5f0	unregister_syscall	/usr/src/hw3-cse506p01/hw3/regvec/reg_sys_vec	EXPORT_SYMBOL
+0xc2d257bc	reduce_ref_count	/usr/src/hw3-cse506p01/hw3/regvec/reg_sys_vec	EXPORT_SYMBOL
+0x085147b0	get_ioctl_module	/usr/src/hw3-cse506p01/hw3/vec_ioctl/ioctl_vector	EXPORT_SYMBOL
+0xbea6d7c7	get_vector_address	/usr/src/hw3-cse506p01/hw3/regvec/reg_sys_vec	EXPORT_SYMBOL
+0x8351135a	get_vector_name	/usr/src/hw3-cse506p01/hw3/regvec/reg_sys_vec	EXPORT_SYMBOL
+0xd878ae31	register_syscall	/usr/src/hw3-cse506p01/hw3/regvec/reg_sys_vec	EXPORT_SYMBOL

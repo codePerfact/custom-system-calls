@@ -1,0 +1,1 @@
+cmd_/usr/src/hw3-cse506p01/hw3/syscall_check/built-in.o :=  ld -m elf_x86_64   -r -o /usr/src/hw3-cse506p01/hw3/syscall_check/built-in.o /usr/src/hw3-cse506p01/hw3/syscall_check/syscall_check.o ; scripts/mod/modpost /usr/src/hw3-cse506p01/hw3/syscall_check/built-in.o

@@ -1,0 +1,1 @@
+cmd_/usr/src/hw3-cse506p01/hw3/vec_ioctl/ioctl_vector.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /usr/src/hw3-cse506p01/hw3/vec_ioctl/ioctl_vector.ko /usr/src/hw3-cse506p01/hw3/vec_ioctl/ioctl_vector.o /usr/src/hw3-cse506p01/hw3/vec_ioctl/ioctl_vector.mod.o
